@@ -1,0 +1,25 @@
+{
+"Employee Data" : [
+{
+"userId":"001",
+"firstName":"Romin",
+"lastName":"jhon",
+"phoneNumber":"1234567123",
+"email":"romin.jhon@gmail.com"
+},
+{
+"userId":"002",
+"firstName":"Neil",
+"lastName":"armstrong",
+"phoneNumber":"111111111",
+"email":"neil@gmail.com"
+},
+{
+"userId":"003",
+"firstName":"Tom",
+"lastName":"jerry",
+"phoneNumber":"2222222222",
+"email":"tom@gmail.com"
+}
+]
+}
