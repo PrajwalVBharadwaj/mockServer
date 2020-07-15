@@ -5,21 +5,24 @@
 "firstName":"Romin",
 "lastName":"jhon",
 "phoneNumber":"1234567123",
-"email":"romin.jhon@gmail.com"
+"email":"romin.jhon@gmail.com",
+  "destination":"Destination1"
 },
 {
 "userId":"002",
 "firstName":"Neil",
 "lastName":"armstrong",
 "phoneNumber":"111111111",
-"email":"neil@gmail.com"
+"email":"neil@gmail.com",
+  "destination":"Destination2"
 },
 {
 "userId":"003",
 "firstName":"Tom",
 "lastName":"jerry",
 "phoneNumber":"2222222222",
-"email":"tom@gmail.com"
+"email":"tom@gmail.com",
+  "destination":"Destination3"
 }
 ]
 }
